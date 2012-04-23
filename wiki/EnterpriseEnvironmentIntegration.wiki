@@ -8,4 +8,9 @@ The page describing options to use this tool in your ... well ... pretty damn ex
 
 = Details =
 
-TBD.
+*Hudson integration*
+You can integrate the xml report using the Hudson / Jenkins EMMA plugin. The html report can be integrated using the HTML Publisher plugin.
+Use -emma switch to get EMMA compatible output.
+
+*IBM RationalRobot integration*
+You can intergate it with database-ware testing Suite from IBM.
