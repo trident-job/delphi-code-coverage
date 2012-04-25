@@ -16,3 +16,7 @@ Use -emma switch to get EMMA compatible output.
 *IBM RationalRobot integration*
 
 You can intergate it with database-ware testing Suite from IBM.
+
+*Memory Managament and Optimization Tools
+
+TBD.
