@@ -19,4 +19,7 @@ You can intergate it with database-ware testing Suite from IBM.
 
 *Memory Managament and Optimization Tools
 
-TBD.
+_`[PROTOTYPE]`_
+madExcept (v3.x) can be used to determine and additionaly highlight the code. If error occurs and madExcept is available, the CallStack is highlighted in the coverage report.
+
+Related Issue: [http://code.google.com/p/delphi-code-coverage/issues/detail?id=37]
