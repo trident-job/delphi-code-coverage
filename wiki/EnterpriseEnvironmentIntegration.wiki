@@ -15,7 +15,9 @@ Use -emma switch to get EMMA compatible output.
 
 *IBM RationalRobot integration*
 
-You can intergate it with database-ware testing Suite from IBM.
+You can intergate it with database-ware testing Suite from IBM. Connection is made as follows: jenkinsCI(Project) -> RationalRobot(Project) -> [Delphi-Code-Coverage] -> EMMA(Project.output) -> jenkinsCI(Project.output)
+
+Related Question: http://stackoverflow.com/questions/1660141/java-measure-code-coverage-for-remote-scripting-tests
 
 *Memory Managament and Optimization Tools
 
