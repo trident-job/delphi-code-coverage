@@ -29,3 +29,5 @@ _`[PROTOTYPE]`_
 madExcept (v3.x) can be used to determine and additionaly highlight the code. If error occurs and madExcept is available, the CallStack is highlighted in the coverage report.
 
 Related Issue: [http://code.google.com/p/delphi-code-coverage/issues/detail?id=37]
+
+Related Branch: http://delphi-code-coverage-madexcept.googlecode.com/svn/trunk/
