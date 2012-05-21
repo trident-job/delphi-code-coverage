@@ -33,3 +33,5 @@ Related Issue: [http://code.google.com/p/delphi-code-coverage/issues/detail?id=3
 Related Branch: http://delphi-code-coverage-madexcept.googlecode.com/svn/trunk/
 
 Related Components: http://code.google.com/p/delphi-code-coverage-madexcept/wiki/RelatedProjects?ts=1336377933&updated=RelatedProjects
+
+Related blog: http://linardsliepins.wordpress.com/
