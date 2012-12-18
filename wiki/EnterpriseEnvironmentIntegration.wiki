@@ -13,6 +13,8 @@ The page describing options to use this tool in your ... well ... pretty damn ex
 You can integrate the xml report using the Hudson / Jenkins EMMA plugin. The html report can be integrated using the HTML Publisher plugin.
 Use -emma switch to get EMMA compatible output.
 
+Also, related info for Sonar can be found here: http://stackoverflow.com/questions/13797440/which-program-analyis-tools-for-delphi-support-continuous-integration-systems
+
 *IBM RationalRobot integration*
 
 You can intergate it with database-ware testing Suite from IBM. Connection is made as follows: jenkinsCI(Project) -> RationalRobot(Project) -> [Delphi-Code-Coverage] -> EMMA(Project.output) -> jenkinsCI(Project.output)
